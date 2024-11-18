@@ -1,5 +1,5 @@
 
-# AdventureWorks Dashboard Using PowerBi
+# AdventureWorks Report Using PowerBi
 
 The management team needs a way to track KPIs (Sales, Revenue, Profit, Returns), compare regional performance, analyze product-level trends, and identify high-value customers.
 
